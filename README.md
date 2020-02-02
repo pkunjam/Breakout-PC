@@ -9,10 +9,8 @@ Relive the golden era!
 This game is compatible with Windows platform only. 
 
 ## Screenshots
-
-<img src = "Assets/1.png" width = "60%">
-<img src = "Assets/2.png" width="60%">
-
+![IMG](https://github.com/pkunjam/Breakout-PC/blob/master/Assets/1.PNG?raw=true)
+![im2](https://github.com/pkunjam/Breakout-PC/blob/master/Assets/2.PNG?raw=true)
 Live Demonstration - [Click Here](https://youtu.be/knuq3-y86Yw)
 
 ## Deployment
