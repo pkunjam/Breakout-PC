@@ -4,7 +4,7 @@ This project is a revised edition of classic arcade 2D game Breakout. </br>
 Let's see how far you can handle the balls. </br>
 Relive the golden era!
 
-Live Demonstration - [Click Here](https://youtu.be/knuq3-y86Yw)
+[Click Here](https://youtu.be/knuq3-y86Yw) to see the video
 
 ## Requirements
 
